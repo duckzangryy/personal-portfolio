@@ -1,4 +1,4 @@
-# Portfolio-1
+# personal-portfolio
 
 Static personal website for **Viet Anh** — liquid glass UI, snow animation, music player, and PWA install support.
 
@@ -35,7 +35,7 @@ Portfolio-1/
 ## Run locally
 
 ```bash
-git clone https://github.com/duckzangryy/Portfolio-1.git
+git clone https://github.com/duckzangryy/personal-portfolio.git
 cd Portfolio-1
 
 # zero-deps
